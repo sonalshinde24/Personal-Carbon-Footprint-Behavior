@@ -14,10 +14,10 @@ https://www.kaggle.com/datasets/sonalshinde123/personal-carbon-footprint-behavio
 
 The analyzing-daily-lifestyle-carbon-footprint-data.ipynb notebook explores and visualizes the carbon footprint dataset. It includes:
 
-✔ Data loading and inspection
-✔ Cleaning / preprocessing steps
-✔ Visual analysis of key lifestyle factors affecting carbon footprint
-✔ Summary visualizations and insights from daily behavior data
+✔ Data loading and inspection  
+✔ Cleaning / preprocessing steps  
+✔ Visual analysis of key lifestyle factors affecting carbon footprint  
+✔ Summary visualizations and insights from daily behavior data  
 
 Refer to the notebook for code examples and graphical analysis.
 
